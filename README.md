@@ -1,4 +1,4 @@
-# Docker implementation of tvhProxy
+# Docker implementation of tvhProxy for Raspberry Pi
 
 Initial version zenon@skuza.net
 
